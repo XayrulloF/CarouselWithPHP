@@ -1,7 +1,8 @@
+<?php
 //Bootstrap Carousel with PHP
 //04-03-2021
 //by Fayzullayev Khayrullo
-
+?>
 <!doctype html>
 <html lang="en">
 <head>
